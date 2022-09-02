@@ -1,4 +1,4 @@
-# ¿Quienes somos?
+# ¿Quiénes somos?
 
 [Enrique Soriano](https://gsyc.urjc.es/~esoriano/)
 
