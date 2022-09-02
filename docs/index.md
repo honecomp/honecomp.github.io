@@ -10,6 +10,10 @@
 
 ## Libros
 
+[Fundamentos de sistemas operativos: una
+aproximación práctica usando Linux](books/librossoo.pdf)
+
+
 ## Transparencias
 
 ## Ejercicios
