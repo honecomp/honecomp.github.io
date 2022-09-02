@@ -9,7 +9,7 @@
 ## Libros
 
 [Fundamentos de sistemas operativos: una
-aproximación práctica usando Linux](books/librossoo.pdf)
+aproximación práctica usando Linux](https://github.com/honecomp/honecomp.github.io/blob/main/books/librossoo.pdf)
 
 
 ## Transparencias
