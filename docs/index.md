@@ -1,5 +1,3 @@
-# Hone(st) Computing Homepage
-
 # ¿Quienes somos?
 
 [Enrique Soriano](https://gsyc.urjc.es/~esoriano/)
