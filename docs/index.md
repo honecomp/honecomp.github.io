@@ -11,11 +11,11 @@
 [Fundamentos de sistemas operativos: una
 aproximación práctica usando Linux](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf)
 
-
-## Transparencias
+<!-- ## Transparencias
 
 ## Ejercicios
 
 ## Código de ejemplo
 
 ## Videos
+-->
