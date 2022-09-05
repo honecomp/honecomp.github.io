@@ -13,15 +13,15 @@ aproximación práctica usando Linux](https://github.com/honecomp/honecomp.githu
 
 ## Transparencias
 
-[Transparencias de sistemas operativos]{https://github.com/honecomp/honecomp.github.io/raw/main/slides/sot.pdf}
+[Transparencias de sistemas operativos](https://github.com/honecomp/honecomp.github.io/raw/main/slides/sot.pdf)
 
 ## Ejercicios
 
-[Ejercicios de sistemas operativos]{https://github.com/honecomp/honecomp.github.io/raw/main/ex/ejercicios_ssoo.pdf}
+[Ejercicios de sistemas operativos](https://github.com/honecomp/honecomp.github.io/raw/main/ex/ejercicios_ssoo.pdf)
 
 ## Videos
 
-[Videos de introducción a C como segundo lenguaje]{https://github.com/honecomp/honecomp.github.io/raw/main/videos/cursoc}
+[Videos de introducción a C como segundo lenguaje](https://github.com/honecomp/honecomp.github.io/raw/main/videos/cursoc)
 
 <!--
 ## Código de ejemplo
