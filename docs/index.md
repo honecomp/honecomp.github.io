@@ -11,9 +11,14 @@
 [Fundamentos de sistemas operativos: una
 aproximación práctica usando Linux](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf)
 
+### Código de ejemplo (ojo, algunos son ejemplos de errores, ver el libro)
+[Código de ejemplo de libro](https://github.com/honecomp/honecomp.github.io/raw/main/src/c)
+
+
 ## Transparencias
 
 [Transparencias de sistemas operativos](https://github.com/honecomp/honecomp.github.io/raw/main/slides/sot.pdf)
+
 [Transparencias de autómatas y desarrollo avanzado del software](https://github.com/honecomp/honecomp.github.io/raw/main/slides/comp.pdf)
 
 ## Ejercicios
@@ -23,7 +28,3 @@ aproximación práctica usando Linux](https://github.com/honecomp/honecomp.githu
 ## Videos
 
 [Videos de introducción a C como segundo lenguaje](https://github.com/honecomp/honecomp.github.io/raw/main/videos/cursoc)
-
-<!--
-## Código de ejemplo
--->
