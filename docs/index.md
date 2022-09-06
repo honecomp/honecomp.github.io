@@ -14,6 +14,7 @@ aproximación práctica usando Linux](https://github.com/honecomp/honecomp.githu
 ## Transparencias
 
 [Transparencias de sistemas operativos](https://github.com/honecomp/honecomp.github.io/raw/main/slides/sot.pdf)
+[Transparencias de autómatas y desarrollo avanzado del software](https://github.com/honecomp/honecomp.github.io/raw/main/slides/comp.pdf)
 
 ## Ejercicios
 
