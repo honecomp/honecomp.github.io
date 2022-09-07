@@ -11,8 +11,10 @@
 [Fundamentos de sistemas operativos: una
 aproximación práctica usando Linux](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf)
 
-### Código de ejemplo (ojo, algunos son ejemplos de errores, ver el libro)
-[Código de ejemplo de libro](https://github.com/honecomp/honecomp.github.io/raw/main/src/c)
+### Programas de ejemplo en C (ojo, algunos son ejemplos de errores, ver el libro)
+[Programas de ejemplo en C del libro](https://github.com/honecomp/honecomp.github.io/raw/main/src/c)
+### Scripts de ejemplo (ojo, algunos son ejemplos de errores, ver el libro)
+[Scripts de ejemplo del libro](https://github.com/honecomp/honecomp.github.io/raw/main/src/shell)
 
 
 ## Transparencias
