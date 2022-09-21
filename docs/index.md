@@ -12,9 +12,9 @@
 aproximación práctica usando Linux](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf)
 
 ### Programas de ejemplo en C (ojo, algunos son ejemplos de errores, ver el libro)
-[Programas de ejemplo en C del libro](https://github.com/honecomp/honecomp.github.io/raw/main/src/c)
+[Programas de ejemplo en C del libro](https://github.com/honecomp/sotsrc)
 ### Scripts de ejemplo (ojo, algunos son ejemplos de errores, ver el libro)
-[Scripts de ejemplo del libro](https://github.com/honecomp/honecomp.github.io/raw/main/src/shell)
+[Scripts de ejemplo del libro](https://github.com/honecomp/sotsrc)
 
 
 ## Transparencias
