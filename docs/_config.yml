@@ -3,6 +3,7 @@ plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
  - jekyll-seo-tag
 title: Hone(st) Computing
+tagline: libro de sistemas operativos linux gratis libre shell programación C GNU/Linux bash sh scripts scripting pdf
 description:
 show_downloads: false
 tags:

@@ -21,8 +21,6 @@ tags:
  - terminal
 ---
 
-<meta name="description" content="libro linux gratis libre creative commons pdf GNU shell sistemas operativos procesos memoria ficheros concurrencia ipc bash C">
-
 # Fundamentos de Sistemas Operativos: Una Aproximación Práctica usando Linux
 
 Bienvenido a la página principal del libro
