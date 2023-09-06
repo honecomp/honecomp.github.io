@@ -11,7 +11,7 @@ tags:
  - libre
 ---
 
-<meta name="description" content="libro linux gratis libre creative commons pdf GNU shell sistemas operativos procesos memoria ficheros concurrencia ipc">
+<meta name="description" content="libro linux gratis libre creative commons pdf GNU shell sistemas operativos procesos memoria ficheros concurrencia ipc bash C">
 
 # Fundamentos de Sistemas Operativos: Una Aproximación Práctica usando Linux
 
@@ -26,7 +26,7 @@ Este es un libro de sistemas operativos, centrado en sistemas GNU/Linux.
 Lo empezamos a escribir durante el primer
 confinamiento causado por la pandemia COVID-19, como parte del material online para
 dar soporte a nuestros alumnos de Ingeniería Telemática/Telecomunicaciones e
-Ingeniería Robótica Software. Como tal, es un libro eminentemente práctico, aunque
+Ingeniería Robótica Software. Como tal, es un libro eminentemente práctico (usando el lenguaje de programación C), aunque
 hay capítulos que incluyen conceptos más teóricos.
 
 Los ejemplos se han probado en Linux (específicamente, en una distribución Ubuntu), pero en principio
