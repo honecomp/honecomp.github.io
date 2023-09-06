@@ -19,16 +19,16 @@ hay capítulos que incluyen conceptos más teóricos.
 Los ejemplos se han probado en Linux (específicamente, en una distribución Ubuntu), pero en principio
 deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 
+**Descarga el [PDF](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf).**
 
-### [Descarga el PDF de Fundamentos de sistemas operativos: una aproximación práctica usando Linux](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf)
 
-<a href="https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf">
 <center>
+<a href="https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf">
 <figure class="image">
   <img src="figs/portada-libro-peq.png">
 </figure>
-</center>
 </a>
+</center>
 
 ### Programas de ejemplo en C del libro
 
