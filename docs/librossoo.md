@@ -17,7 +17,7 @@ hay capítulos que incluyen conceptos más teóricos.
 El contenido del libro se centra en una introducción y estructura del sistema de un sistema GNU/Linux (historia, organización, kernel, área de usuario, uso básico, etc.),
 la shell (creación de shell scripts, pipelines, uso del terminal, expresiones regulares, grep, sed, awk, etc.),
 comprensión y uso de procesos (llamadas al sistema, etc.),
-comprensión de sistemas de ficheros y uso de ficheros (llamadas al sistema, etc.), comprensión y uso de la memoria, gestión de memoria, etc.), comunicación entre procesos (pipes, sockets, fifo, señales, etc.) y la programación concurrente (condiciones de carrera, memoria compartida, threads, etc.).
+comprensión de sistemas de ficheros y uso de ficheros (llamadas al sistema, etc.), comprensión y uso de la memoria, gestión de memoria, etc.), comunicación entre procesos (pipes, sockets, fifos, señales, etc.) y la programación concurrente (condiciones de carrera, memoria compartida, threads, etc.).
 
 Los ejemplos se han probado en Linux (específicamente, en una distribución Ubuntu), pero en principio
 deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
