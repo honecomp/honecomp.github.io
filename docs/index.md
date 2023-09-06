@@ -9,7 +9,7 @@
 ## Libros
 
 [Página principal del libro Fundamentos de sistemas operativos: una
-aproximación práctica usando Linux](https://honecomp.github.io/libro/index.html)
+aproximación práctica usando Linux](https://honecomp.github.io/librossoo.html)
 
 [Fundamentos de sistemas operativos: una
 aproximación práctica usando Linux (PDF)](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf)
