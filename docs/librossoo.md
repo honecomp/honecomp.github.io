@@ -1,5 +1,4 @@
-<meta name="google-site-verification" content="UWOK57fyc-5Od58QoXIHqWDkJuCOD9OQU9NsU-te6jI" />
-<meta name="description" content="libro de sistemas operativos linux gratis y libre, decargar pdf shell programación C GNU/Linux bash sh scripts scripting">
+# Fundamentos de Sistemas Operativos: Una Aproximación Práctica usando Linux
 
 Bienvenido a la página principal del libro
 *Fundamentos de Sistemas Operativos: Una Aproximación Práctica usando Linux*.
