@@ -1,5 +1,8 @@
 ---
 title:      Fundamentos de Sistemas Operativos, Una Aproximación Práctica usando Linux
+tagline: libro de sistemas operativos linux gratis libre shell programación C GNU/Linux bash sh scripts scripting pdf
+description:
+show_downloads: false
 tags:
  - libro
  - linux
