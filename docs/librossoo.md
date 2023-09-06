@@ -28,6 +28,16 @@ deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 </a>
 </center>
 
+### Índice
+
+* 1. Introducción y estructura del sistema de un sistema GNU/Linux, historia, uso básico, etc.
+* 2. Shell: creación de shell scripts, pipelines, uso del terminal, expresiones regulares, grep, sed, awk, etc.
+* 3. Procesos: comprensión y uso de procesos (llamadas al sistema, etc.)
+* 4. Ficheros: comprensión de sistemas de ficheros y uso de ficheros (llamadas al sistema, etc.)
+* 5. Memoria: comprensión y uso de la memoria, gestión de memoria, etc.)
+* 6. Comunicación entre procesos: pipes, sockets, fifo, señales, etc.
+* 7. Introducción a la programación concurrente: condiciones de carrera, memoria compartida, threads, etc.
+
 ### Programas de ejemplo en C del libro
 
 [Programas de ejemplo en C del libro](https://github.com/honecomp/sotsrc)
