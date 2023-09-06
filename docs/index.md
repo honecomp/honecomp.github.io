@@ -9,13 +9,14 @@
 ## Libros
 
 [Página principal del libro Fundamentos de sistemas operativos: una
-aproximación práctica usando Linux (PDF)](https://honecomp.github.io/librossoo.html)
+aproximación práctica usando Linux](https://honecomp.github.io/librossoo.html)
 
 [Fundamentos de sistemas operativos: una
 aproximación práctica usando Linux (PDF)](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf)
 
 ### Programas de ejemplo en C (ojo, algunos son ejemplos de errores, ver el libro)
 [Programas de ejemplo en C del libro](https://github.com/honecomp/sotsrc)
+
 ### Scripts de ejemplo (ojo, algunos son ejemplos de errores, ver el libro)
 [Scripts de ejemplo del libro](https://github.com/honecomp/sotsrc)
 
