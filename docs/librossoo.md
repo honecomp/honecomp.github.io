@@ -1,3 +1,16 @@
+---
+title:      Fundamentos de Sistemas Operativos, Una Aproximación Práctica usando Linux
+summary:    libro gratis y libre de sistemas operativos GNU/Linux
+categories: libro
+date:       Wed Sep  6 20:08:57 CEST 2023
+thumbnail:  libro Fundamentos de sistemas operativos
+image:      https://honecomp.github.io/fig/portada-libro.png
+tags:
+ - libro
+ - linux
+ - libre
+---
+
 <meta name="description" content="libro linux gratis libre creative commons pdf GNU shell sistemas operativos procesos memoria ficheros concurrencia ipc">
 
 # Fundamentos de Sistemas Operativos: Una Aproximación Práctica usando Linux
