@@ -1,0 +1,8 @@
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+ - jekyll-remote-theme
+title: Hone(st) Computing
+image: https://honecomp.github.io/figs/portada-libro.png
+description:
+locale: es_ES
+show_downloads: false
