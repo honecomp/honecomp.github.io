@@ -46,7 +46,7 @@ deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 
 ### Changelog
 
-* 2022-10-17. Versión 1.02. Corrección de rratas menores.
+* 2022-10-17. Versión 1.02. Corrección de erratas menores.
 
 * 2022-09-21. Versión 1.00. Versión inicial.
 
