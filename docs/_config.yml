@@ -1,27 +1,10 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
- - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-remote-theme
  - jekyll-seo-tag
 title: Hone(st) Computing
+image: https://honecomp.github.io/figs/portada-libro.png
 tagline: libro de sistemas operativos linux gratis libre shell programación C GNU/Linux bash sh scripts scripting pdf
-description:
+description: libro de sistemas operativos linux gratis libre shell programación C GNU/Linux bash sh scripts scripting pdf
+locale: es_ES
 show_downloads: false
-tags:
- - libro
- - linux
- - libre
- - pdf
- - GNU
- - shell
- - sistemas operativos
- - programación
- - concurrencia
- - pipes
- - scripts
- - bash
- - sh
- - unix
- - bsd
- - curso
- - sistemas
- - terminal
