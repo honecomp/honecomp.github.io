@@ -14,6 +14,11 @@ dar soporte a nuestros alumnos de Ingeniería Telemática/Telecomunicaciones e
 Ingeniería Robótica Software. Como tal, es un libro eminentemente práctico (usando el lenguaje de programación C), aunque
 hay capítulos que incluyen conceptos más teóricos.
 
+El contenido del libro se centra en una introducción y estructura del sistema de un sistema GNU/Linux (historia, organización, kernel, área de usuario, uso básico, etc.),
+la shell (creación de shell scripts, pipelines, uso del terminal, expresiones regulares, grep, sed, awk, etc.),
+comprensión y uso de procesos (llamadas al sistema, etc.),
+comprensión de sistemas de ficheros y uso de ficheros (llamadas al sistema, etc.), comprensión y uso de la memoria, gestión de memoria, etc.), comunicación entre procesos (pipes, sockets, fifo, señales, etc.) y la programación concurrente (condiciones de carrera, memoria compartida, threads, etc.).
+
 Los ejemplos se han probado en Linux (específicamente, en una distribución Ubuntu), pero en principio
 deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 
@@ -28,15 +33,6 @@ deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 </a>
 </center>
 
-### Índice
-
-* 1. Introducción y estructura del sistema de un sistema GNU/Linux, historia, uso básico, etc.
-* 2. Shell: creación de shell scripts, pipelines, uso del terminal, expresiones regulares, grep, sed, awk, etc.
-* 3. Procesos: comprensión y uso de procesos (llamadas al sistema, etc.)
-* 4. Ficheros: comprensión de sistemas de ficheros y uso de ficheros (llamadas al sistema, etc.)
-* 5. Memoria: comprensión y uso de la memoria, gestión de memoria, etc.)
-* 6. Comunicación entre procesos: pipes, sockets, fifo, señales, etc.
-* 7. Introducción a la programación concurrente: condiciones de carrera, memoria compartida, threads, etc.
 
 ### Programas de ejemplo en C del libro
 
