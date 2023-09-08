@@ -1,7 +1,7 @@
 # Fundamentos de Sistemas Operativos: Una Aproximación Práctica usando Linux
 
 Bienvenido a la página principal del libro
-*Fundamentos de Sistemas Operativos: Una Aproximación Práctica usando Linux*.
+*Fundamentos de Sistemas Operativos: Una Aproximación Práctica Usando Linux*.
 
 Este libro es **libre y gratuito**,
 se distribuye bajo una licencia `Atribución-CompartirIgual 4.0 Internacional`
