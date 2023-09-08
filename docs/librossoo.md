@@ -1,4 +1,4 @@
-# Fundamentos de Sistemas Operativos: Una Aproximación Práctica usando Linux
+# Fundamentos de Sistemas Operativos: Una Aproximación Práctica Usando Linux
 
 Bienvenido a la página principal del libro
 *Fundamentos de Sistemas Operativos: Una Aproximación Práctica Usando Linux*.
