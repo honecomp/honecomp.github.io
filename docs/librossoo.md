@@ -46,9 +46,18 @@ deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 
 ### Changelog
 
+* 2023-10-9. Versión 2.0. Corrección de erratas menores. Se incluyen secciones
+avanzadas sobre el terminal, mmu, gather/scatter, E/S asíncrona, ejercicios
+y algunas adiciones menores (sudo, etc).
+
 * 2022-10-17. Versión 1.02. Corrección de erratas menores.
 
 * 2022-09-21. Versión 1.00. Versión inicial.
+
+### Erratas, sugerencias, etc.
+
+Nos puedes enviar un correo electrónico o un issue en [github](https://github.com/honecomp/honecomp.github.io/issues).
+
 
 # ¿Quiénes somos?
 
