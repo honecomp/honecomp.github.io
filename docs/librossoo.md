@@ -46,6 +46,8 @@ deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 
 ### Changelog
 
+* 2024-05-2. Versión 2.01. Corrección de erratas menores.
+
 * 2023-10-9. Versión 2.0. Corrección de erratas menores. Se incluyen secciones
 avanzadas sobre el terminal, mmu, gather/scatter, E/S asíncrona, ejercicios
 y algunas adiciones menores (sudo, etc).
