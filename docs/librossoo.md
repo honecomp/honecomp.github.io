@@ -19,7 +19,8 @@ de tipo Unix (*Unix-like*), la estructura básica del sistema (historia, kernel,
 el uso efectivo de la shell (comandos básicos, creación de shell scripts, pipelines, uso del terminal, expresiones regulares, grep, sed, awk, etc.),
 la comprensión y el uso de procesos (llamadas al sistema,
 planificación, etc.),
-la comprensión de sistemas de ficheros y el uso de ficheros (llamadas al sistema, formato de sistemas de ficheros, etc.), la comprensión y el uso de la memoria (gestión de memoria, etc.), la comunicación entre procesos (pipes, sockets, fifos, señales, etc.) y una introducción a la programación concurrente (condiciones de carrera, memoria compartida, cerrojos, threads, etc.).
+la comprensión de sistemas de ficheros y el uso de ficheros (llamadas al sistema, formato de sistemas de ficheros, etc.), la comprensión y el uso de la memoria (gestión de memoria, etc.), la comunicación entre procesos (pipes, sockets, fifos, señales, etc.), una introducción a la programación concurrente (condiciones de carrera, memoria compartida, cerrojos, threads, etc.) y la descripción de 
+algunos aspectos de seguridad.
 
 Los ejemplos se han probado en Linux (específicamente, en una distribución Ubuntu), pero en principio
 deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
@@ -46,9 +47,12 @@ deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 
 ### Changelog
 
-* 2024-05-2. Versión 2.01. Corrección de erratas menores.
+* 2025-09-08. Versión 3.00. Se incluye un nuevo capítulo dedicado a la seguridad.
+Corrección de erratas menores.
 
-* 2023-10-9. Versión 2.0. Corrección de erratas menores. Se incluyen secciones
+* 2024-05-02. Versión 2.01. Corrección de erratas menores.
+
+* 2023-10-09. Versión 2.0. Corrección de erratas menores. Se incluyen secciones
 avanzadas sobre el terminal, mmu, gather/scatter, E/S asíncrona, ejercicios
 y algunas adiciones menores (sudo, etc).
 
