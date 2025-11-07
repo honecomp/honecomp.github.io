@@ -27,6 +27,8 @@ deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 
 **Descarga el [PDF](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf).**
 
+**Descarga el [EPUB](https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.epub).**
+
 
 <center>
 <a href="https://github.com/honecomp/honecomp.github.io/raw/main/books/librossoo.pdf">
@@ -46,6 +48,9 @@ deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 [Scripts de ejemplo del libro](https://github.com/honecomp/sotsrc)
 
 ### Changelog
+
+* 2025-11-07. Versión 3.1. Versión en EPUB del libro. Nuevos contenidos sobre el
+sistema de ficheros ext4.
 
 * 2025-09-08. Versión 3.00. Se incluye un nuevo capítulo dedicado a la seguridad.
 Corrección de erratas menores.
