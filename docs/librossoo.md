@@ -49,6 +49,9 @@ deberían ser fáciles de trasladar a cualquier sistema tipo Unix.
 
 ### Changelog
 
+* 2025-11-07. Versión 3.2. Colores en la versión EPUB del libro corregidos. Mejoras en el escalado
+de figuras.
+
 * 2025-11-07. Versión 3.1. Versión en EPUB del libro. Nuevos contenidos sobre el
 sistema de ficheros ext4.
 
