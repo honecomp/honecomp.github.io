@@ -3,7 +3,7 @@
 Bienvenido a la página principal del libro
 *Fundamentos de Sistemas Operativos: Una Aproximación Práctica Usando Linux*.
 
-Este libro es **libre y gratuito**,
+El libro es gratuito y 
 se distribuye bajo una licencia `Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Internacional`
 de Creative Commons, disponible en [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es).
 
